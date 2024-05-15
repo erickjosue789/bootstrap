@@ -1,0 +1,9 @@
+.img-cover {
+    height: 700px;
+    object-fit: cover;
+}
+
+.img-cover-2 {
+    height: 400px;
+    object-fit: cover;
+}
